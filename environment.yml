@@ -4,7 +4,7 @@ channels:
   - pytorch
   - conda-forge
 dependencies:
-  - python=3.7
+  - python=3.9
   - numpy
   - pandas
   - scipy
@@ -19,7 +19,7 @@ dependencies:
   - pytorch=1.9.1
   - torchvision=0.10.1
   - torchaudio==0.9.1
-  - cudatoolkit=10.2
+  - cudatoolkit
   - imageio=2.9.0
   - imageio-ffmpeg=0.4.3
   - tensorboard
