@@ -15,17 +15,17 @@ dependencies:
   - joblib
   - lz4
   - pylint
-  - pillow=6.1
-  - pytorch=1.9.1
-  - torchvision=0.10.1
-  - torchaudio==0.9.1
+  - pillow
+  - pytorch
+  - torchvision
+  - torchaudio
   - cudatoolkit
-  - imageio=2.9.0
-  - imageio-ffmpeg=0.4.3
+  - imageio
+  - imageio-ffmpeg
   - tensorboard
   - pip
   - pip:
-    - setuptools==59.5.0
+    - setuptools
     - lpips
     - yacs
     - scikit-image
@@ -44,5 +44,5 @@ dependencies:
     - click
     - psutil
     - lazy
-    - pyspng==0.1.0
+    - pyspng
     - PyMCubes
